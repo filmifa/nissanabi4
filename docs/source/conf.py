@@ -2,12 +2,11 @@
 
 # -- Project information
 
-project = 'nissanabi4'
+project = 'nissanabi 4'
 copyright = '2021, nissanabi4'
-author = 'nissanabi 4'
+author = 'nissanabi4'
 
-release = '0.1'
-version = '0.1.0'
+
 
 # -- General configuration
 
